@@ -15,13 +15,18 @@ namespace UseBotonesMusica
         public Form1()
         {
             InitializeComponent();
-            this.FormBorderStyle = FormBorderStyle.FixedSingle; // Evita redimensionar
-            this.MaximizeBox = false; // Deshabilita el botón de maximizar
+            this.FormBorderStyle = FormBorderStyle.FixedSingle; 
+            this.MaximizeBox = false; 
         }
 
         private void notaMusical1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void botonCerrar1_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

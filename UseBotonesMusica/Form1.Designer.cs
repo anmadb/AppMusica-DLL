@@ -89,6 +89,7 @@
             this.botonCerrar1.TabIndex = 3;
             this.botonCerrar1.Text = "botonCerrar1";
             this.botonCerrar1.UseVisualStyleBackColor = false;
+            this.botonCerrar1.Click += new System.EventHandler(this.botonCerrar1_Click);
             // 
             // botonSiguiente1
             // 
