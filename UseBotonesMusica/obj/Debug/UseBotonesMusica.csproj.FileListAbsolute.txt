@@ -1,0 +1,13 @@
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\bin\Debug\UseBotonesMusica.exe.config
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\bin\Debug\UseBotonesMusica.exe
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\bin\Debug\UseBotonesMusica.pdb
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\bin\Debug\BotonesMusica.dll
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\bin\Debug\BotonesMusica.pdb
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\obj\Debug\UseBotonesMusica.csproj.AssemblyReference.cache
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\obj\Debug\UseBotonesMusica.Form1.resources
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\obj\Debug\UseBotonesMusica.Properties.Resources.resources
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\obj\Debug\UseBotonesMusica.csproj.GenerateResource.cache
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\obj\Debug\UseBotonesMusica.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\obj\Debug\UseBoton.07169B15.Up2Date
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\obj\Debug\UseBotonesMusica.exe
+C:\Users\juanm\source\repos\UseBotonesMusica\UseBotonesMusica\obj\Debug\UseBotonesMusica.pdb
